@@ -1,5 +1,5 @@
 <a>
-  <img src="/picture/me.png" width="100" />
+  <img src="/picture/me.png" width="300" />
 </a>
 
 # About me
