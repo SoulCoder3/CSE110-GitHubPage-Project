@@ -1,6 +1,10 @@
 <a>
   <img src="/picture/me.png" width="300" />
 </a>
+&emsp; &emsp; &emsp;
+<a href="https://github.com/SoulCoder3">
+  <img src="/picture/github_icon.png" width="50" />
+</a>
 
 # About me
 #### As a person
@@ -29,9 +33,6 @@ I am currently looking for more opportunities to participate in projects to gain
 - [ ] Complete resume
 - [ ] Seek out internships and work opportunities
 
-<a href="https://github.com/SoulCoder3">
-  <img src="/picture/github_icon.png" width="50" />
-</a>
 
 
 
