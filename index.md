@@ -1,7 +1,7 @@
 <a>
   <img src="/picture/me.png" width="300" />
 </a>
-&emsp; &emsp; &emsp;
+
 <a href="https://github.com/SoulCoder3">
   <img src="/picture/github_icon.png" width="50" />
 </a>
