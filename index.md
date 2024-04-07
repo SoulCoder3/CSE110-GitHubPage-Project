@@ -1,9 +1,9 @@
 <a>
-  <img src="/picture/me.png" width="300" />
+  <img src="./picture/me.png" width="300" />
 </a>
 
 <a href="https://github.com/SoulCoder3">
-  <img src="/picture/github_icon.png" width="50" />
+  <img src="./picture/github_icon.png" width="50" />
 </a>
 
 # About me
