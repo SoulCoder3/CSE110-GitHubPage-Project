@@ -1,4 +1,6 @@
-![me](/picture/me.png){:height="100px" width="300px"}
+<a>
+  <img src="/picture/me.png" width="100" />
+</a>
 
 # About me
 #### As a person
