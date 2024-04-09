@@ -20,7 +20,7 @@
 4. C
 5. C#
 ```
-I participated in the project development of the _ACM Association_ in UCSD, where I learned to use ***MERN*** stack to develop web projects. I was mainly responsible for backend development, using Express.js, Node.js and MongoDB. 
+I participated in the project development of the [_ACM Association_](https://acmucsd.com/) in UCSD, where I learned to use ***MERN*** stack to develop web projects. I was mainly responsible for backend development, using Express.js, Node.js and MongoDB. 
 I am currently looking for more opportunities to participate in projects to gain experience.
 
 #### Career Goal
